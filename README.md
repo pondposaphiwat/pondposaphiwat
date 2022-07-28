@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pondposaphiwat
 - 👀 I’m interested in software development, data science, and robotics.
-- 🌱 I’m currently learning blockchain dev
+- 🌱 I’m currently learning software dev.
 - 💞️ I’m looking to collaborate on any cool project!
 - 📫 How to reach me tachpol@berkeley.edu
 
